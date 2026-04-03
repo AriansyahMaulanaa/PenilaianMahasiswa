@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_primary">#0F0F1A</color>
+    <color name="card_bg">#1A1A2E</color>
+    <color name="input_bg">#16213E</color>
+    <color name="info_bg">#111827</color>
+    <color name="divider">#2A2A4A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E8E8F0</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_hint">#6B7280</color>
+
+    <!-- Accent -->
+    <color name="accent_primary">#818CF8</color>
+    <color name="accent_secondary">#38BDF8</color>
+
+    <!-- Grade Colors -->
+    <color name="grade_a">#10B981</color>
+    <color name="grade_b">#3B82F6</color>
+    <color name="grade_c">#F59E0B</color>
+    <color name="grade_d">#F97316</color>
+    <color name="grade_e">#EF4444</color>
+
+    <!-- Buttons -->
+    <color name="btn_primary_start">#6366F1</color>
+    <color name="btn_primary_end">#8B5CF6</color>
+    <color name="btn_secondary">#374151</color>
+    <color name="danger">#EF4444</color>
+    <color name="danger_bg">#1C0A0A</color>
+
+    <!-- Standard -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
